@@ -6,7 +6,7 @@ git branch -a 			             // -a flag for all branches.
 git branch --verbose 		         // it will show verbose
 git init 			                   // to initialise the current directory as a git repo
 git add 			                   // Add a file to staging 
-git commit -m " message"       	 // Commit all staged files to git
+git commit -m " message"        	 // Commit all staged files to git
 git remote add origin		         // To add a remote to your local copy
 git push origin main 		         // to push your local commits to the main branch of the origin remote
 git clone 			                 // Download a remote repo
@@ -21,3 +21,6 @@ git rm --cached filename 	       // Remove from staging area only
 git rm -r foldername 		         // remove directory/folder
 git pull 			                   // Fetch the remote repo's copy of the current branch, then merge
 git push 			                   // Upload local content to remote repo
+
+
+
